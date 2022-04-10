@@ -36,7 +36,7 @@
 
 ### DEPLOY
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fawas.fx/Millie)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fawasfx/Millie)
 
 
 ### CHANGE DYNO
